@@ -72,12 +72,21 @@ Dashboard Description
 The dashboard provides a comprehensive overview of the sales data analysis.
 
 Header: The dashboard is titled "Big Data Sales Analysis Dashboard".
+
 KPIs: At the top, you'll find two key performance indicators:
+
 Total Revenue: The total revenue from all sales.
+
 Top Performing Store: The store with the highest total revenue.
+
 Visualizations: The main section of the dashboard features three interactive charts:
-    Total Revenue by Store Location: A bar chart that displays the total revenue for each store, allowing for a quick comparison of store performance.
-    Top 10 Best-Selling Products: A horizontal bar chart that shows the top 10 products with the highest number of sales.
-    Monthly Sales Trend for the Last Year: A line chart that visualizes the monthly revenue over the last year, helping to identify trends and seasonality.
-*   Raw Data Tables: At the bottom of the dashboard, there are expandable sections that allow you to view the raw data for each of the analyses.
+    
+Total Revenue by Store Location: A bar chart that displays the total revenue for each store, allowing for a quick comparison of store performance.
+    
+Top 10 Best-Selling Products: A horizontal bar chart that shows the top 10 products with the highest number of sales.
+    
+Monthly Sales Trend for the Last Year: A line chart that visualizes the monthly revenue over the last year, helping to identify trends and seasonality.
+    
+Raw Data Tables: At the bottom of the dashboard, there are expandable sections that allow you to view the raw data for each of the analyses.
+
 
