@@ -1,6 +1,3 @@
-# dashboard.py
-# An interactive web dashboard to visualize PySpark analysis results.
-
 import streamlit as st
 import pandas as pd
 import plotly.express as px
