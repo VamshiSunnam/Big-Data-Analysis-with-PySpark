@@ -1,4 +1,3 @@
-# Test comment
 import random
 import uuid
 from datetime import datetime, timedelta
